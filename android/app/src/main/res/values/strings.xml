@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MSMI Medicao</string>
+    <string name="title_activity_main">MSMI Medicao</string>
+    <string name="package_name">com.msmi.medicao</string>
+    <string name="custom_url_scheme">com.msmi.medicao</string>
+</resources>
