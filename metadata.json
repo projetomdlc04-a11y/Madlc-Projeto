@@ -1,0 +1,6 @@
+{
+  "name": "macOS Web OS",
+  "description": "Um simulador de alta fidelidade do macOS com Dock interativo, gerenciador de janelas arrastáveis, terminal funcional, Safari, Finder, Notas, Ajustes, Calculadora e Siri integrada com inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

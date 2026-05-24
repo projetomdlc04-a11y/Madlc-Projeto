@@ -1,0 +1,21 @@
+{
+  "short_name": "MSMI Medição",
+  "name": "MSMI Medição - Sistema de Calibração",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/color/192/mac-os--v2.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://img.icons8.com/color/512/mac-os--v2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1c1c1e",
+  "theme_color": "#1c1c1e",
+  "display": "standalone",
+  "orientation": "portrait"
+}
